@@ -205,7 +205,6 @@ InferenceEngine::Parameter Engine::GetMetric(const std::string& name,
     THROW_IE_EXCEPTION << NOT_IMPLEMENTED_str;
 }
 
-int32_t test_func
-{
+int32_t test_func   {
     return 0;
 }
