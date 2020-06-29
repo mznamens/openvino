@@ -206,5 +206,6 @@ InferenceEngine::Parameter Engine::GetMetric(const std::string& name,
 }
 
 int32_t test_func   {
+    int a
     return 0;
 }
